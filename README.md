@@ -8,5 +8,6 @@
 ## Get all product from the database 
 <img src="screenshots/GetProducts.PNG" style="width:100%" alt="Checkout Screen"/>
 
-
+## Get all product detais from the database 
+<img src="screenshots/GetProductDetails.PNG" style="width:100%" alt="Checkout Screen"/>
 
