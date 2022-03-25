@@ -22,9 +22,6 @@ class CreateReviewsTable extends Migration
             $table->integer('star');
             $table->timestamps();
         });
-        // Schema::table('reviews', function($table){
-        //     $table->foreign('product_id')->references('id')->on('products')->onDelete('cascade');
-        // });
 
     }
 
